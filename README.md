@@ -18,3 +18,11 @@ Ages 13-14
 
 ![alt Swarm screenshot](img/swarm.png "Swarm screenshot")
 
+---
+
+##Paint
+
+Ages 13-14
+
+![alt Paint screenshot](img/paint.png "Paint screenshot")
+
