@@ -7,10 +7,14 @@ Samsung Galaxy Note 2, Moto-G.
 ##Evade
 
 Created summer of 2013.  Ages 13-14.
+
 ![alt Evade screenshot](img/evade.png "Evade screenshot")
+
+---
 
 ##Swarm
 
 Ages 13-14
+
 ![alt Swarm screenshot](img/swarm.png "Swarm screenshot")
 
